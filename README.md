@@ -72,15 +72,16 @@ Este repositorio contiene un archivo `pyproject.toml` para instalar las dependen
 
 ### [Clase 6](clase6/README.md)
 
+* Métodos de ensamble
+* Boosting, Bagging y Bosques Aleatorios
+* Feature Importance
+
+### [Clase 7](clase7/README.md)
+
 * Aprendizaje no supervisado
 * Métodos de clustering
 * K-Means
 * Métodos de reducción de dimensionalidad
-
-### [Clase 7](clase7/README.md)
-* Métodos de ensamble
-* Boosting, Bagging y Bosques Aleatorios
-* Feature Importance
 
 ## Bibliografía
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)

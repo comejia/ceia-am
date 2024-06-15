@@ -14,7 +14,7 @@ Los criterios de aprobación son los siguientes:
 
 1. Obligación de trabajar en grupo mínimo de 2 y máximo de 6. Excepciones se pueden hacer mediante un correcto justificativo.
 2. Cada TP debe citar la fuente de información de evaluación, es decir, citar de donde se obtuvieron los datos.
-3. Puede ser entregado en cualquier formato, preferentemente en notebook de ipython (formato ipynb).
+3. Puede ser entregado en cualquier formato, preferentemente en notebook de ipython (formato ipynb). También puede entregarse mediante un documento en Google Colab.
 4. Contendrá la propuesta de investigación en los datos, citando el porqué de la evaluación y que se pretende encontrar o descubrir con dicha investigación
 5. Deberá explicar el porqué de la elección del algoritmo empleado para la resolución del problema y cómo llegó a esa elección por sobre otras opciones
 6. Deberá expresar de manera clara el resultado de la investigación aportando las métricas necesarias para comprender cómo se desempeña el algoritmo elegido.

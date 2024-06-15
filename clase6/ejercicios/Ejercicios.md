@@ -2,7 +2,7 @@
 
 1. En los ejercicios para realizar de clase 3, vimos el dataset `winequality-red.csv`, el cual consiste en datos de 
 vinos rojos basados en datos físico-químicos y una metrica de calidad de vino. Más info en [Kaggle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009). Usando el 
-mismo dataset y basando en el estudio de variables anteriormente realizado, eligiendo algun método de ensamble visto de
+mismo dataset y basando en el estudio de variables anteriormente realizado, eligiendo algún método de ensamble visto de
 clase:
    1. Construya un módelo de regresión. Juegue con las variables usando algún método de búsqueda de hiper-parámetros si
    hace falta.

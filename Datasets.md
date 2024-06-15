@@ -7,7 +7,7 @@ Algunos lugares donde podemos encontrar datasets...
 - [UCI datasets](https://archive.ics.uci.edu/)
 
 ## Algunos datasets
-Si no estás decidido a que dataset elegir, aquí paso 10 datasets que yo considero interesantes.
+Si no están decidido a que dataset elegir, aquí paso 10 datasets que se consideran interesantes.
 
 ### Datos de colisiones de electrones del CERN
 

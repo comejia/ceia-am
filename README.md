@@ -85,7 +85,8 @@ Este repositorio contiene un archivo `pyproject.toml` para instalar las dependen
 
 ## Bibliografía
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
-- An Introduction to Statistical Learning - Gareth James (Ed. Springer)
+- [An Introduction to Statistical Learning](https://www.statlearning.com/) - Gareth James (Ed. Springer)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas
 - The Elements of Statistical Learning - Trevor Hastie (Ed. Springer)
 - Data Science from Scratch First Principles with Python - Joel Gru (Ed. O’Reilly)
 - The Hundred-Page Machine Learning Book - Andriy Burkov (Ed. Burkov)

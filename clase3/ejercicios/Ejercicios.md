@@ -19,3 +19,5 @@ Queremos predecir la calidad del vino usando los atributos físico-químicos del
 2. Continuando con el ejercicio de la clase 2 del dataset `UCI_Credit_Card.csv`. Incorpore al estudio de los modelos 
 al menos un SVM de clasificación y repita las evaluaciones que se hicieron con los clasificadores. Discuta los 
 resultados obtenidos.
+
+**Nota**: No existe el dataset `UCI_Credit_Card.csv`, se procede a usar `Social_Network_Ads.csv`

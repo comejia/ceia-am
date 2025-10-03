@@ -404,7 +404,7 @@ edge [fontname="helvetica"] ;
 194 -> 200 ;
 201 [label="PutOuts <= 20.5\nsquared_error = 0.001\nsamples = 2\nvalue = 6.981", fillcolor="#eb9e67"] ;
 200 -> 201 ;
-202 [label="squared_error = -0.0\nsamples = 1\nvalue = 7.004", fillcolor="#eb9d65"] ;
+202 [label="squared_error = 0.0\nsamples = 1\nvalue = 7.004", fillcolor="#eb9d65"] ;
 201 -> 202 ;
 203 [label="squared_error = 0.0\nsamples = 1\nvalue = 6.957", fillcolor="#eb9f68"] ;
 201 -> 203 ;

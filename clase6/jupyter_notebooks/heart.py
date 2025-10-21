@@ -20,7 +20,7 @@ class HeartDataset:
         random_state (int): Semilla para la generación de números aleatorios. Por defecto es 42.
     """
 
-    def __init__(self, path: str = "./Heart.csv", random_state: int = 42):
+    def __init__(self, path: str = "./heart.csv", random_state: int = 42):
         """
         Inicializa una nueva instancia de HeartDataset.
         """
